@@ -1,4 +1,8 @@
 package com.empresal.liverpoolsearch.models
 
-class ItemSearchResult {
-}
+data class ItemSearchResult (
+    var imageProduct: String,
+    var nameProduct: String,
+    var locProduct: String,
+    var priceProduct: String
+)
