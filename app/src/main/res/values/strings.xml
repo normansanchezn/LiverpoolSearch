@@ -3,4 +3,5 @@
     <string name="search">Buscar</string>
     <string name="welcome_user">¡Bienvenida Lesly!</string>
     <string name="what_are_you_doing">Todo lo que busques sobre Liverpool, lo encontrarás.</string>
+    <string name="no_information">Sin resultados de búsqueda</string>
 </resources>
